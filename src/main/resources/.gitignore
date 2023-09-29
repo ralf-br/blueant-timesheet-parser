@@ -1,0 +1,3 @@
+### Ignore all other non example csv files to not check in personal timesheets
+*.csv
+!example.csv
