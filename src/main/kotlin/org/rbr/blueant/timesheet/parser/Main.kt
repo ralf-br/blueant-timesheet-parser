@@ -45,8 +45,8 @@ private fun loadAndParseCSV(filename: String): List<TimeEntry> {
         println("$filename \n")
     }
 
-    repeat(10) {
-        timesheetReader.readLine() //ignore first 10 lines of chunk
+    repeat(9) {
+        timesheetReader.readLine() //ignore first 9 lines of chunk
     }
 
     return CsvToBeanBuilder<TimeEntry>(timesheetReader)
