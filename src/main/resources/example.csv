@@ -7,7 +7,6 @@
 "Soll-Netto II";"Ist Gesamt";"Ist Arbeit";"Abwesend";"+ / -";"Offen";"Freigegeben";"Abgelehnt";"Abgerechnet";"Fakturierbar";"Nicht fakturierbar"
 "ignored:00";"ignored:30";"ignored:30";"00:00";"ignored:30";"ignored:30";"ignored:00";"00:00";"00:00";"ignored:30";"00:00"
 
-;;;;;;;;"Weitere Informationen";
 ;"Projekt-Nr.";"Projekt";"Aktivität";"Tätigkeit";"Bemerkung kurz";"Datum";"Dauer";"Jira-Ticket";"Ablehnungsgrund"
 "Offen"" / Fakturierbar";"23456";"Project Y";"Subtask irrelevant";"Meetings";"redacted";"03.07.2023";"01:30";;
 "Freigegeben"" / Fakturierbar";"12345";"Project 1";"Subtask irrelevant";"Aufgabenbearbeitung";"redacted";"03.07.2023";"06:30";"VRDB-2704";
